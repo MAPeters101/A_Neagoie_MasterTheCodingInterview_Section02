@@ -1,1 +1,1 @@
-# No code for lesson106.
+# No code for lesson006.
